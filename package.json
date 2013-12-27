@@ -1,0 +1,14 @@
+{
+  "name": "socket-test",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "ws": "0.4.x",
+    "express": "3.x",
+    "socket.io": "0.9"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
